@@ -1,2 +1,4 @@
 my_feature
 first_bugfix
+second_bugfix
+
